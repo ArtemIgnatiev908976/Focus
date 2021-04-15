@@ -1276,7 +1276,11 @@ h1 + .line {
         visibility: hidden;
         display: none;
     }
+#experience1{
+    visibility: hidden;
+    display: none;
 
+}
     #progressNav{
         visibility: hidden;
         display: none;
