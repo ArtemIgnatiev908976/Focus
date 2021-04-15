@@ -1268,3 +1268,17 @@ h1 + .line {
     margin-bottom: 2rem;
     display: none
 }
+
+
+
+@media screen and (max-width: 600px) {
+    #projects {
+        visibility: hidden;
+        display: none;
+    }
+
+    #progressNav{
+        visibility: hidden;
+        display: none;
+    }
+}
